@@ -1,0 +1,109 @@
+{
+  "col": [
+    {
+      "id": 0,
+      "name": "t",
+      "parkings": [
+        {
+          "p": {
+            "id": 262,
+            "title": " Vía Carpetana",
+            "lat": 40.3884352927236,
+            "long": -3.7443700438845036,
+            "users": [],
+            "locality": "MADRID",
+            "street": "CALLE VIA CARPETANA 205",
+            "image_main": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Madrid_app_eric_046_%288257946245%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/2/2f/Madrid_app_eric_046_%288257946245%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/8/81/H.e.a.t_-_01.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/c/c0/Scorpions_-_03.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/5/51/Scorpions_-_04.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/f/fd/Scorpions_-_07.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/0/00/Scorpions_-_02.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/8/86/Scorpions_-_05.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/d/d5/Scorpions_-_01.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/f/f7/HOSPITAL_CENTRAL_DE_LA_DEFENSA_-_panoramio.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/5/58/Scorpions_Madrid_2014_-_panoramio_%282%29.jpg"
+            ],
+            "postal": "28047",
+            "description": "Plazas: 309 Abierto 24 horas Titularidad: Ayuntamietno de Madrid"
+          },
+          "name": " Vía Carpetana"
+        },
+        {
+          "p": {
+            "id": 264,
+            "title": " Plaza de España",
+            "lat": 40.42372251184839,
+            "long": -3.7116577340508523,
+            "users": [
+              {
+                "id": "108853143961240003549",
+                "name": "Bertrand VEREZ"
+              },
+              {
+                "id": "115396249721073778311",
+                "name": "Antje Gerstenecker"
+              },
+              {
+                "id": "112679372199672801713",
+                "name": "Spain Attractions"
+              }
+            ],
+            "locality": "MADRID",
+            "street": "PLAZA ESPAÑA 20",
+            "image_main": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Edificio_Espa%C3%B1a_-_05.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/c/ca/Edificio_Espa%C3%B1a_-_05.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/2/2b/Plaza_de_Espa%C3%B1a_-_panoramio.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/5/57/Paolo_Monti_-_Servizio_fotografico_-_BEIC_6333098.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/0/07/Plaza_de_Espana_2008_-_panoramio.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/1/1e/Water_-_panoramio_-_fabiolah.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/6/6a/Plaza_de_Espa%C3%B1a%2C_Madrid_%2810.10.2010%29._-_panoramio.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/5/5e/%D0%A2%D0%B8%D0%BF%D0%B8%D1%87%D0%BD%D0%B0%D1%8F_%D0%98%D0%A1%D0%9F%D0%90%D0%9D%D0%98%D0%AF_-_panoramio.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/6/63/Madrid_2010_-_panoramio.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/6/6b/Madrid_2010_-_panoramio_%281%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/2/23/Plaza_de_Espa%C3%B1a_-_panoramio_%288%29.jpg"
+            ],
+            "postal": "28008",
+            "description": "Plazas : 800 (hasta 535 abonados) Abierto 24 horas Admite Tarjeta BonoRed Titularidad : Ayuntamiento de Madrid"
+          },
+          "name": " Plaza de España"
+        }
+      ]
+    }
+  ],
+  "as": [
+    {
+      "id": "264",
+      "users": [
+        {
+          "id": "108853143961240003549",
+          "name": "Bertrand VEREZ"
+        },
+        {
+          "id": "115396249721073778311",
+          "name": "Antje Gerstenecker"
+        },
+        {
+          "id": "112679372199672801713",
+          "name": "Spain Attractions"
+        }
+      ]
+    },
+    {
+      "id": "263",
+      "users": [
+        {
+          "id": "110804953626559077511",
+          "name": "Jason Mayes"
+        },
+        {
+          "id": "108853143961240003549",
+          "name": "Bertrand VEREZ"
+        }
+      ]
+    }
+  ]
+}
