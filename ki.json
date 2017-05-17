@@ -1,0 +1,154 @@
+{
+  "col": [
+    {
+      "id": 0,
+      "name": "coleccion 1",
+      "parkings": [
+        {
+          "p": {
+            "id": 261,
+            "title": " Vista Alegre",
+            "lat": 40.386090109968336,
+            "long": -3.7377818777393292,
+            "users": [],
+            "locality": "MADRID",
+            "street": "CALLE MATILDE HERNANDEZ 101",
+            "image_main": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bar%C3%B3n_Rojo%2C_Madrid_22_10_2011_%283%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/2/20/Bar%C3%B3n_Rojo%2C_Madrid_22_10_2011_%283%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/5/56/Bar%C3%B3n_Rojo%2C_Madrid_22_10_2011_%282%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/f/f3/Bar%C3%B3n_Rojo%2C_Madrid_22_10_2011.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/d/d3/Scorpions_Madrid_2014_-_panoramio.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/4/4b/Scorpions_Madrid_2014_-_panoramio_%281%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/d/dc/Scorpions_Madrid_2014_-_panoramio_%283%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/8/82/Efervescencia_ciudadana_-_panoramio.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/1/1b/2%C2%AA_Jornada_Asamblea_Ciudadana_%C2%ABS%C3%AD_Se_Puede%C2%BB_%2819-10-2014%29_-_I_-_panoramio.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/5/59/2%C2%AA_Jornada_Asamblea_Ciudadana_%C2%ABS%C3%AD_Se_Puede%C2%BB_%2819-10-2014%29_-_III_-_panoramio.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/9/90/2%C2%AA_Jornada_Asamblea_Ciudadana_%C2%ABS%C3%AD_Se_Puede%C2%BB_%2819-10-2014%29_-_II_-_panoramio.jpg"
+            ],
+            "postal": "28025",
+            "description": "Plazas : 402 Abierto 24 horas Titularidad : Ayuntamiento de Madrid"
+          },
+          "name": " Vista Alegre"
+        },
+        {
+          "p": {
+            "id": 259,
+            "title": " Virgen del Puerto",
+            "lat": 40.413421489994384,
+            "long": -3.7209782941840133,
+            "users": [],
+            "locality": "MADRID",
+            "street": "PASEO VIRGEN DEL PUERTO 7",
+            "image_main": "https://upload.wikimedia.org/wikipedia/commons/4/40/Imperial%2C_28005_Madrid%2C_Spain_-_panoramio.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/4/40/Imperial%2C_28005_Madrid%2C_Spain_-_panoramio.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/4/49/Imperial%2C_28005_Madrid%2C_Spain_-_panoramio_%281%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/2/2d/LEMMY%C2%B4S_GIFT_-_panoramio.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/b/b8/MOTORHEAD_LIGHT_-_panoramio.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/3/3b/LEMMY_KILMASTER_-_panoramio.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/8/81/MOTORHEAD_RADIO_-_panoramio.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/5/5b/%C2%AE_S.D._%28ES%2CEN%29_MADRID_PUENTE_DE_SEGOVIA_BALLET_-_panoramio.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/6/69/%C2%AE_S.D._%28ES%2CEN%29_MADRID_PUENTE_DE_SEGOVIA_BALLET_-_panoramio_%281%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/5/5c/%C2%AE_S.D._%28ES%2CEN%29_MADRID_PUENTE_DE_SEGOVIA_BALLET_-_panoramio_%282%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/b/ba/%C2%AE_S.D._%28ES%2CEN%29_MADRID_PUENTE_DE_SEGOVIA_BALLET_-_panoramio_%285%29.jpg"
+            ],
+            "postal": "28005",
+            "description": "Plazas : 793 Abierto 24 horas Titularidad : Ayuntamiento de Madrid"
+          },
+          "name": " Virgen del Puerto"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "coleccion 2 ",
+      "parkings": [
+        {
+          "p": {
+            "id": 254,
+            "title": " Virgen de Aránzazu",
+            "lat": 40.48651259805486,
+            "long": -3.689784149213909,
+            "users": [],
+            "locality": "MADRID",
+            "street": "CALLE VIRGEN DE ARANZAZU 23",
+            "image_main": "https://upload.wikimedia.org/wikipedia/commons/9/94/CTBA_%28Madrid%29_20.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/9/94/CTBA_%28Madrid%29_20.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/8/83/M-30_%28Madrid%2C_Spain%29_11.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/8/8d/Andenes_Ram%C3%B3n_y_Cajal.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/e/e3/Torre_Espacio_%28Madrid%29_-_03.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/3/34/Hospital_Ram%C3%B3n_y_Cajal_-_panoramio.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/d/d9/Estaci%C3%B3n_de_Cercanias_de_Ram%C3%B3n_y_Cajal_-_panoramio.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/e/e3/Nuevo_Modulo_de_Anatomia_Patologica_-_panoramio_-_Ricardo_Ricote_Rodr%C3%AD%E2%80%A6.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/8/8e/Alrededores_del_Hospital_Ramon_y_Cajal_-_panoramio.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/5/53/Cuatro_Torres_Business_Area_-_panoramio_-_tiago186703274.jpg"
+            ],
+            "postal": "28034",
+            "description": "Plazas : 238 Abierto 24 horas Titularidad : Ayuntamiento de Madrid"
+          },
+          "name": " Virgen de Aránzazu"
+        },
+        {
+          "p": {
+            "id": 251,
+            "title": " Villaescusa",
+            "lat": 40.41982661310281,
+            "long": -3.630058923275035,
+            "users": [
+              {
+                "id": "110804953626559077511",
+                "name": "Jason Mayes"
+              },
+              {
+                "id": "108853143961240003549",
+                "name": "Bertrand VEREZ"
+              },
+              {
+                "id": "102354824581711724695",
+                "name": "Yvonne Melton"
+              }
+            ],
+            "locality": "MADRID",
+            "street": "CALLE MATAMOROSA 2",
+            "image_main": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Se%C3%B1ales_antiguas_en_el_cementerio_de_La_Almudena%2C_de_Madrid%2C_Espa%C3%B1a.JPG",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/6/6f/Se%C3%B1ales_antiguas_en_el_cementerio_de_La_Almudena%2C_de_Madrid%2C_Espa%C3%B1a.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/3/34/Calle_de_Nicol%C3%A1s_Salmer%C3%B3n.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/8/88/Calle_de_Nicol%C3%A1s_Salmer%C3%B3n%2C_Madrid.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/7/78/Vista_de_Madrid%2C_Torre_Picasso%2C_Torres_Blancas%2C_Torre_Europa_y_Hotel_Puerta_Am%C3%A9rica.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/0/0f/Tumba_de_F%C3%A9lix_Schlayer%2C_cementerio_civil_de_Madrid.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/4/46/Tumba_de_Miguel_Morayta%2C_cementerio_civil_de_Madrid.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/5/55/Fernando_Lozano_Montes_%C2%ABDem%C3%B3filo%C2%BB%2C_cementerio_civil_de_Madrid.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/5/57/Tumba_del_teniente_Castillo%2C_cementerio_civil_de_Madrid.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/5/5d/Tumba_de_Jos%C3%A9_del_Castillo_S%C3%A1enz_de_Tejada%2C_cementerio_civil_de_Madrid.jpg"
+            ],
+            "postal": "28017",
+            "description": "Plazas : 228 Abierto 24 horas Titularidad : Ayuntamiento de Madrid"
+          },
+          "name": " Villaescusa"
+        }
+      ]
+    }
+  ],
+  "as": [
+    {
+      "id": "251",
+      "users": [
+        {
+          "id": "110804953626559077511",
+          "name": "Jason Mayes"
+        },
+        {
+          "id": "108853143961240003549",
+          "name": "Bertrand VEREZ"
+        },
+        {
+          "id": "102354824581711724695",
+          "name": "Yvonne Melton"
+        }
+      ]
+    }
+  ]
+}
